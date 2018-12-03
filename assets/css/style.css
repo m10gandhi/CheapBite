@@ -257,6 +257,22 @@ section .subtitle-half h5 {
 }
 
 
+.lastbg{
+background: url(../images/lastbg.jpg) no-repeat;
+    color:#fff;
+    background-color: rgba(0,0,0,0.5);
+    height: 100% !important;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    -ms-background-size:cover;
+}
+
+
 .heading {
     margin-bottom: 4rem;
 }
@@ -521,11 +537,11 @@ textarea::-ms-input-placeholder
 .navbar-default .collapse .login a{
     color: #82ca9c;
     border: 1px solid #82ca9c;
-    border-radius: 10px;
-    padding: 4px 15px;
+    border-radius: 20px;
+    padding: 4px 30px;
     font-size: 12px;
-    margin-top: 5px;
-    margin-left: 15px;
+    margin-top: 10px;
+    margin-left: 30px;
     display:inline-block;
     overflow:hidden;
 }
@@ -593,16 +609,16 @@ textarea::-ms-input-placeholder
 
 /*For Home Section*/
 .home{
-    background:url(../images/home_bg.jpg) no-repeat center center;
+    background:url(../images/home_bg.jpg) no-repeat;
     color:#000;
-	background-size:cover;
-	-webkit-background-size:cover;
-	-moz-background-size:cover;
-	-o-background-size:cover;
-	-ms-background-size:cover;
+	background-size:100% 100%;
+	-webkit-background-size:100% 100%;
+	-moz-background-size:100% 100%;
+	-o-background-size:100% 100%;
+	-ms-background-size:100% 100%;
 }
 .home-wrapper{
-    padding:180px 0px;
+    padding:90px 0px;
     overflow:hidden;
 }
 .home-content h1{
@@ -616,7 +632,7 @@ textarea::-ms-input-placeholder
     color: #fff;
 }
 .home-content .home-contact{
-    margin-top: 90px;
+    margin-top: 45px;
 }
 
 .home-contact .input-group{display: block;}
