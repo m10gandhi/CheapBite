@@ -35,6 +35,28 @@ h3{
     padding-bottom: 10rem;
 }
 
+.coupon {
+    border: 5px dotted #bbb;
+    width: 80%;
+    border-radius: 15px;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+.container1 {
+    padding: 2px 16px;
+    
+}
+
+.promo {
+    background: #ccc;
+    padding: 3px;
+}
+
+.expire {
+    color: green;
+}
+
 /*==========================================
 PRE LOADER
 ==========================================*/
