@@ -28,6 +28,12 @@ img {
     user-drag: none;
 }
 
+h3{
+    padding-top: 10rem;
+}
+.after-button{
+    padding-bottom: 10rem;
+}
 
 /*==========================================
 PRE LOADER
@@ -226,6 +232,7 @@ Section
     padding-bottom: 50px;
     position: relative;
     overflow: hidden;
+    height: 110%;
 }
 .sections2 {
     padding-top:40px;
@@ -259,9 +266,9 @@ section .subtitle-half h5 {
 
 .lastbg{
 background: url(../images/lastbg.jpg) no-repeat;
-    color:#fff;
+    color:#ffffff;
     background-color: rgba(0,0,0,0.5);
-    height: 100% !important;
+    height: 140% !important;
     width: 100%;
     background-attachment: fixed;
     background-position: center;
