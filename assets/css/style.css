@@ -138,7 +138,7 @@ input[type="color"],
     height: 45px;
 }
 .form-control:focus {
-    border-color: #82ca9c;
+    border-color: #f44e4e;
 }
 
 h1,
@@ -373,7 +373,7 @@ Button
 
 .btn-default {
     border-radius: 0px;
-    background: #82ca9c;
+    background: #f44e4e;
     color: #ededed;
     border: 0;
     padding: 12px 15px;
@@ -399,7 +399,7 @@ Button
     font-size: 18px;
     line-height: 26px;
     border-radius:0;
-    background: #82ca9c;
+    background: #f44e4e;
     border: 0;
     padding: 10px 25px;
 }
@@ -529,7 +529,7 @@ textarea::-ms-input-placeholder
     padding-top:10px;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-    color: #82ca9c;
+    color: #f44e4e;
     background-color:transparent;
 }
 .navbar-default .navbar-nav>li>a {
@@ -539,11 +539,11 @@ textarea::-ms-input-placeholder
 	text-transform:uppercase;
 }
 .navbar-default .navbar-nav li a :hover{
-    color: #82ca9c;
+    color: #f44e4e;
 }
 .navbar-default .collapse .login a{
-    color: #82ca9c;
-    border: 1px solid #82ca9c;
+    color: #f44e4e;
+    border: 1px solid #f44e4e;
     border-radius: 20px;
     padding: 4px 30px;
     font-size: 12px;
@@ -557,7 +557,7 @@ textarea::-ms-input-placeholder
     color:#fff;
 }
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-    color: #82ca9c;
+    color: #f44e4e;
     background-color: transparent;
 }
 .navbar-brand{
@@ -653,12 +653,12 @@ textarea::-ms-input-placeholder
 
 }
 .home-content .home-contact input[type="text"]{
-    color:#82ca9c;
+    color:#f44e4e;
 }
 .home-content .home-contact input[type="submit"]{
     display:inline-block;
     width:25%;
-    background:#82ca9c;
+    background:#f44e4e;
     color:#fff;
 	border: 0px;
 }
@@ -795,7 +795,7 @@ textarea::-ms-input-placeholder
     position: relative;
     padding: 2px;
     border-radius: 50em;
-    background:#82ca9c;
+    background:#f44e4e;
 }
 .cd-pricing-switcher input[type="radio"] {
     position: absolute;
@@ -1062,7 +1062,7 @@ textarea::-ms-input-placeholder
     padding: 1em;
     pointer-events: none;
     color: #FFFFFF;
-    border:1px solid #82ca9c;
+    border:1px solid #f44e4e;
 }
 .cd-pricing-header h2 {
     margin-bottom: 3px;
@@ -1083,7 +1083,7 @@ textarea::-ms-input-placeholder
     }
     .cd-popular .cd-pricing-header {
         color:#fff;
-        background:#82ca9c;
+        background:#f44e4e;
     }
     .cd-secondary-theme .cd-pricing-header {
         color: #FFFFFF;
@@ -1221,7 +1221,7 @@ textarea::-ms-input-placeholder
 
 }
 .cd-pricing-footer a {
-    background:#82ca9c;
+    background:#f44e4e;
     color:#fff;
 }
 
@@ -1284,7 +1284,7 @@ textarea::-ms-input-placeholder
     }
     .cd-popular .cd-select {
         color: #ededed;
-        background: #82ca9c;
+        background: #f44e4e;
     }
     .no-touch .cd-popular .cd-select:hover {
         color:#000;
@@ -1502,7 +1502,7 @@ xkeyframes
 
 
 .fa-check-circle{
-    color:#82ca9c;
+    color:#f44e4e;
 }
 .fa-remove{
     color:red;
@@ -1533,7 +1533,7 @@ xkeyframes
     -webkit-transition:.3s ease-in-out;
 }
 .community-edition:hover{
-    background:#82ca9c;
+    background:#f44e4e;
     color:#fff;
 }
 .community-edition:hover i {
@@ -1548,7 +1548,7 @@ xkeyframes
 
 .community-edition i{
     font-size:60px;
-    color:#82ca9c;
+    color:#f44e4e;
     margin-bottom: 20px;
 }
 .community-edition h4{
@@ -1641,12 +1641,12 @@ xkeyframes
 
 }
 .menu-item input[type="text"]{
-    color:#82ca9c;
+    color:#f44e4e;
 }
 .menu-item input[type="submit"]{
     display:inline-block;
     width:35%;
-    background:#82ca9c;
+    background:#f44e4e;
     color:#fff;
 	border:0px;
 }
@@ -1700,7 +1700,7 @@ xkeyframes
 	-webkit-transition: opacity .5s, background-color .5s;
 }
 .scrollup:hover {
-	background: #82ca9c;
+	background: #f44e4e;
 	opacity: 1;
 }
 .scrollup i {
